@@ -1,10 +1,10 @@
 
 .container  {
   height: 600px;
-  padding-top: 150px;
+  padding-top: 60px;
 }
 .nav nav-tabs {
-  column-rule-color: black
+  column-rule-color: f8d509;
 }
 body {
     font-family: 'Cabin Sketch', cursive;
@@ -210,7 +210,6 @@ p {
         height:250px;
     }
 }
-/* Footer*/
 i.red{
     color:#BC0213;
 }
@@ -218,7 +217,16 @@ i.red{
     padding-top :75px;
     padding-bottom:75px;
 }
-.footer{
-  background-color: black;
-  height: 200px;
 }
+.footer{
+  padding-top: 70px;
+  height: 200px;
+  color: black;
+  font-family: 'Cabin Sketch', cursive;
+  list-style-type: none;
+  font-size: 18px;
+}
+
+/*.galeria {
+  padding-top: 50px;
+}*/
